@@ -9,6 +9,9 @@ the use of these words.
 Lab in Question: http://www.cs.utep.edu/ofuentes/cs2302/spring18/lab5.pdf
 
 Download glove.6B.zip - http://nlp.stanford.edu/data/glove.6B.zip
+
 Unzip and Obtain glove.6B.50D.txt
+
 Move text file to /src
+
 Run Program
